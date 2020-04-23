@@ -1,8 +1,6 @@
 # morpion_POO
 
-<h2>1. Introduction</h2>
-
-<p>Rien de tel que de coder un jeu pour solidifier ses bases en POO ! Nous allons donc créer un <a href="https://fr.wikipedia.org/wiki/Tic-tac-toe?oldformat=true" target="_blank">jeu de morpion</a>, jeu hautement stratégique et follement passionnant s'il en est. </p>
+<p> Création un <a href="https://fr.wikipedia.org/wiki/Tic-tac-toe?oldformat=true" target="_blank">jeu de morpion</a>, jeu hautement stratégique et follement passionnant s'il en est. </p>
 
 <p>Pour ceux qui ne sont pas passé par la case morpion dans leur enfance (ou leur adolescence pour les moins hygiéniques), on vous précise 8 comportements attendus de la part du programme (par ordre d'importance) :</p>
 <ol>
